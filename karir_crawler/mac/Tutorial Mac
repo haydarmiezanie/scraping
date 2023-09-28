@@ -1,0 +1,26 @@
+----------------------------------------
+Tutorial installation & Running on Mac :
+----------------------------------------
+
+1. Download file and put in your desktop
+
+2. Open Terminal
+
+3. Run this command "cd Desktop/karir_crawler"
+
+4. Install python ( If you already have python on your computer you can skip this step )
+
+5. Install package with this command "python3 -m pip install -r req" ( Only first time run )
+
+6. Run "python3 -m karir_crawler [first_page] [last_page]". For the example :
+	python3 -m karir_crawler 1 50
+
+7. Program will running 10-12 page / second and the result will dump into Excel at your folder
+
+
+Note : 
+If program not running correctly contact the engineer :
+Haydar Miezanie - Data Engineer
+
+
+
